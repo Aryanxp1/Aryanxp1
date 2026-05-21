@@ -5,7 +5,7 @@
 
 <!-- Visitor Counter -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Aryanxp1&label=👁️%20Profile%20Views&color=00ff41&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Aryanxp1&label=Profile+Views&color=00ff41&style=flat-square" alt="Profile Views" />
 </p>
 
 <!-- ══════════════════════ HEADER BANNER ══════════════════════ -->
@@ -13,7 +13,7 @@
 
 <!-- ══════════════════════ TYPING ANIMATION ══════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=650&lines=🧠+Building+Intelligent+Systems+from+Scratch;🐍+Python+%7C+Machine+Learning+%7C+Deep+Learning;📊+Turning+Raw+Data+into+Real+Decisions;⚔️+DSA+Grinder+%40+LeetCode+(aizen_xp);🌌+The+quieter+you+become%2C+the+more+you+can+hear." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+from+Scratch;Python+%7C+Machine+Learning+%7C+Deep+Learning;Turning+Raw+Data+into+Real+Decisions;DSA+Grinder+%40+LeetCode+%28aizen_xp%29;The+quieter+you+become%2C+the+more+you+can+hear." alt="Typing SVG" />
 </p>
 
 <br/>
@@ -28,12 +28,12 @@
 class Aryan:
     name        = "Aryan Vishwakarma"
     username    = "Aryanxp1"
-    location    = "India 🇮🇳"
+    location    = "India"
     roles       = ["AI Engineer", "ML Practitioner", "Data Scientist"]
     languages   = ["Python", "SQL", "Bash"]
     focus       = ["Machine Learning", "Deep Learning", "NLP", "DSA"]
     currently   = "Building smarter models, breaking harder problems"
-    philosophy  = "Code like Senku, think like Aizen ⚡"
+    philosophy  = "Code like Senku, think like Aizen"
 ```
 
 <br/>
@@ -44,25 +44,25 @@ class Aryan:
 
 ## `> tech --stack`
 
-**🐍 Languages & Core**
+**Languages & Core**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,bash,markdown&theme=dark" />
 </p>
 
-**🤖 AI / ML / Data Science**
+**AI / ML / Data Science**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
   &nbsp;
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-**🛠️ Tools & Environment**
+**Tools & Environment**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter,docker&theme=dark" />
@@ -77,8 +77,8 @@ class Aryan:
 ## `> git log --stats`
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryanxp1&show_icons=true&theme=matrix&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Aryanxp1&theme=matrix&hide_border=true&fire=00ff41&ring=00cc33&currStreakLabel=00ff41" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryanxp1&show_icons=true&theme=matrix&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Aryanxp1&theme=matrix&hide_border=true&fire=00ff41&ring=00cc33&currStreakLabel=00ff41" />
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@ class Aryan:
 ## `> leetcode --user aizen_xp`
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/aizen_xp?theme=dark&font=Fira%20Code&ext=heatmap&border=0" />
+  <img src="https://leetcard.jacoblin.cool/aizen_xp?theme=dark&font=source_code_pro&ext=heatmap&border=0&radius=10" />
 </p>
 
 <br/>
@@ -118,20 +118,7 @@ class Aryan:
 ## `> git activity --graph`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryanxp1&theme=react-dark&hide_border=true&color=00ff41&line=00cc33&point=ffffff&area=true&area_color=003300" />
-</p>
-
-<br/>
-
----
-
-
-<!-- ══════════════════════ RANDOM QUOTE ══════════════════════ -->
-
-## `> fortune`
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+quieter+you+become%2C+the+more+you+can+hear&author=Aizen+%E2%80%94+and+also+good+engineers" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryanxp1&theme=react-dark&hide_border=true&color=00ff41&line=00cc33&point=ffffff&area=true" />
 </p>
 
 <br/>
@@ -163,11 +150,11 @@ class Aryan:
 <!-- ══════════════════════ FOOTER ══════════════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%F0%9F%91%BE;Star+a+repo+if+you+found+it+useful+⭐;Let's+connect+and+build+something+great+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Thanks+for+visiting;Star+a+repo+if+you+found+it+useful;Let%27s+connect+and+build+something+great" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:0d0d0d&height=120&section=footer" />
 
 <!-- ████████████████████████████████████████████████████████████████████ -->
-<!--  Made with 🧠 + ☕ by Aryan Vishwakarma  |  github.com/Aryanxp1    -->
+<!--  Made with by Aryan Vishwakarma  |  github.com/Aryanxp1            -->
 <!-- ████████████████████████████████████████████████████████████████████ -->
