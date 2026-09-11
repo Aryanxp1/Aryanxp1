@@ -1,0 +1,193 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-label="Aryan Vishwakarma — AI Systems, Resilient Data Engines, Algorithmic Engineering">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="cyberDark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#06090D"/>
+      <stop offset="45%"  stop-color="#091017"/>
+      <stop offset="100%" stop-color="#0D161F"/>
+    </linearGradient>
+
+    <!-- Neon Emerald & Cyan Accents -->
+    <linearGradient id="neonRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#00FF66"/>
+      <stop offset="50%"  stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#00FF66" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="borderGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#00FF66" stop-opacity="0.6"/>
+      <stop offset="50%"  stop-color="#00E5FF" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#00FF66" stop-opacity="0.4"/>
+    </linearGradient>
+
+    <!-- Radial Embers -->
+    <radialGradient id="emberEmerald" cx="0.8" cy="0.3" r="0.6">
+      <stop offset="0%"   stop-color="#00FF66" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#00FF66" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="emberCyan" cx="0.15" cy="0.85" r="0.5">
+      <stop offset="0%"   stop-color="#00E5FF" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Tech Grid -->
+    <pattern id="gridPattern" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#00FF66" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+
+    <!-- Glow Filters -->
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="laserGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="bannerFrame">
+      <rect width="1000" height="320" rx="14"/>
+    </clipPath>
+
+    <!-- Constellation Trajectories -->
+    <path id="stream1" d="M640 120 L730 80 L830 110 L930 70"/>
+    <path id="stream2" d="M640 120 L715 180 L825 150 L930 190"/>
+    <path id="stream3" d="M730 80 L825 150 L930 70"/>
+  </defs>
+
+  <g clip-path="url(#bannerFrame)">
+    <!-- Base Canvas -->
+    <rect width="1000" height="320" fill="url(#cyberDark)"/>
+    <rect width="1000" height="320" fill="url(#gridPattern)"/>
+    <rect width="1000" height="320" fill="url(#emberEmerald)"/>
+    <rect width="1000" height="320" fill="url(#emberCyan)"/>
+
+    <!-- Subtle Background Architecture Code -->
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#00FF66" fill-opacity="0.07">
+      <text x="580" y="248">class EnginePipeline:</text>
+      <text x="600" y="266">    async def dispatch(self, packet) -&gt; Result:</text>
+      <text x="620" y="284">        await Solva.remediate(packet)</text>
+      <text x="620" y="302">        return ResiliX.assert_safety(packet)</text>
+    </g>
+
+    <!-- Top Status Indicator -->
+    <g transform="translate(64, 42)">
+      <circle cx="0" cy="0" r="4.5" fill="#00FF66">
+        <animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="0" cy="0" r="8" fill="none" stroke="#00FF66" stroke-width="1.2">
+        <animate attributeName="r" values="4;12" dur="2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.8;0" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="18" y="4" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="11.5" letter-spacing="3.5" font-weight="600" fill="#00FF66">SYSTEM ONLINE // ARYANXP1</text>
+    </g>
+
+    <rect x="64" y="58" width="160" height="2" fill="url(#neonRule)"/>
+
+    <!-- Main Heading -->
+    <g filter="url(#softGlow)">
+      <text x="64" y="136" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="44" font-weight="900" letter-spacing="1.5" fill="#00FF66" fill-opacity="0.25">ARYAN VISHWAKARMA</text>
+    </g>
+    <text x="64" y="136" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+          font-size="44" font-weight="900" letter-spacing="1.5" fill="#F0FFF4">ARYAN VISHWAKARMA</text>
+
+    <!-- Tagline -->
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5">
+      <text x="64" y="174" fill="#00E5FF" font-weight="700">AI SYSTEMS</text>
+      <text x="162" y="174" fill="#4B5563">&#183;</text>
+      <text x="180" y="174" fill="#E2E8F0" font-weight="600">FAULT-TOLERANT ENGINES</text>
+      <text x="408" y="174" fill="#4B5563">&#183;</text>
+      <text x="426" y="174" fill="#00FF66" font-weight="700">ALGORITHMIC RIGOR</text>
+    </g>
+
+    <!-- Interactive / Status Pills -->
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5">
+      <!-- Pill 1 -->
+      <rect x="64" y="200" width="140" height="26" rx="13" fill="#0C131A" stroke="#00FF66" stroke-opacity="0.4" stroke-width="1.2"/>
+      <circle cx="78" cy="213" r="3" fill="#00FF66"/>
+      <text x="88" y="217" fill="#E2E8F0">local-first AI</text>
+
+      <!-- Pill 2 -->
+      <rect x="214" y="200" width="154" height="26" rx="13" fill="#0C131A" stroke="#00E5FF" stroke-opacity="0.4" stroke-width="1.2"/>
+      <circle cx="228" cy="213" r="3" fill="#00E5FF"/>
+      <text x="238" y="217" fill="#E2E8F0">resilience testing</text>
+
+      <!-- Pill 3 -->
+      <rect x="378" y="200" width="138" height="26" rx="13" fill="#0C131A" stroke="#22C55E" stroke-opacity="0.4" stroke-width="1.2"/>
+      <circle cx="392" cy="213" r="3" fill="#22C55E"/>
+      <text x="402" y="217" fill="#E2E8F0">storage engines</text>
+
+      <!-- Pill 4 -->
+      <rect x="64" y="234" width="170" height="26" rx="13" fill="#0C131A" stroke="#38BDF8" stroke-opacity="0.4" stroke-width="1.2"/>
+      <text x="78" y="251" fill="#38BDF8" font-weight="700">&gt; 700+ DSA SOLVED</text>
+
+      <!-- Pill 5 -->
+      <rect x="244" y="234" width="228" height="26" rx="13" fill="#0C131A" stroke="#F59E0B" stroke-opacity="0.4" stroke-width="1.2"/>
+      <text x="258" y="251" fill="#FBBF24">LEETCODE: aizen_xp</text>
+    </g>
+
+    <!-- ══ Constellation Node Graph (Right Side) ══ -->
+    <g stroke="#00FF66" stroke-opacity="0.30" stroke-width="1.5" fill="none">
+      <use href="#stream1"/>
+      <use href="#stream2"/>
+      <use href="#stream3"/>
+    </g>
+
+    <!-- Node Points -->
+    <g filter="url(#laserGlow)">
+      <g fill="#091017" stroke="#00FF66" stroke-width="2">
+        <circle cx="640" cy="120" r="7"/>
+        <circle cx="730" cy="80"  r="7"/>
+        <circle cx="715" cy="180" r="7"/>
+        <circle cx="830" cy="110" r="7"/>
+        <circle cx="825" cy="150" r="7"/>
+        <circle cx="930" cy="70"  r="8.5"/>
+        <circle cx="930" cy="190" r="7"/>
+      </g>
+      <!-- Core Pulsing Node -->
+      <circle cx="930" cy="70" r="8.5" fill="#00FF66">
+        <animate attributeName="fill-opacity" values="0.9;0.2;0.9" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="830" cy="110" r="7" fill="#00E5FF">
+        <animate attributeName="fill-opacity" values="0.3;0.85;0.3" dur="3s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- Flowing Packets -->
+    <circle r="4" fill="#FFFFFF">
+      <animateMotion dur="4s" repeatCount="indefinite"><mpath href="#stream1"/></animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3.5" fill="#00FF66">
+      <animateMotion dur="3.2s" begin="1s" repeatCount="indefinite"><mpath href="#stream2"/></animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.2s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3.5" fill="#00E5FF">
+      <animateMotion dur="4.8s" begin="2s" repeatCount="indefinite"><mpath href="#stream3"/></animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" dur="4.8s" begin="2s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Node Labels -->
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#94A3B8" font-weight="600">
+      <text x="618" y="106">INGEST</text>
+      <text x="708" y="66">SOLVA</text>
+      <text x="690" y="202">RESILIX</text>
+      <text x="836" y="102" fill="#00E5FF">FORGE</text>
+      <text x="898" y="52" fill="#00FF66">VAYUSUTRA</text>
+      <text x="906" y="212">OUTPUT</text>
+    </g>
+
+    <!-- Outer Precision Border -->
+    <rect x="0.5" y="0.5" width="999" height="319" rx="14" fill="none" stroke="url(#borderGlow)" stroke-width="1.4"/>
+  </g>
+</svg>
