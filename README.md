@@ -83,84 +83,79 @@ class AryanVishwakarma:
 
 ### `// FLAGSHIP SYSTEMS & DATA PLATFORMS`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <br/>
-      <a href="https://github.com/Aryanxp1/VayuSutra-APIx">
-        <img src="https://img.shields.io/badge/PLATFORM_01-✈️_VayuSutra--APIx-0284C7?style=for-the-badge&labelColor=090D18" height="28"/>
-      </a>
-      <p><b>Econometric Aviation Intelligence &amp; Airfare Price Index Platform</b></p>
-      <p>
-        <a href="https://vayusutra-apix.onrender.com/"><img src="https://img.shields.io/badge/Live_Deployment-Render-0284C7?style=flat-square&labelColor=090D18" height="20"/></a>
-        <img src="https://img.shields.io/badge/FastAPI-090D18?style=flat-square&labelColor=090D18&color=8B949E" height="20"/>
-        <img src="https://img.shields.io/badge/CPI_Methodology-Jevons_%2B_Laspeyres-8B5CF6?style=flat-square&labelColor=090D18" height="20"/>
-      </p>
-      <ul>
-        <li><b>Statistically Defensible CPI:</b> Built according to MoSPI CPI 2024 standards using the Jevons elementary index (geometric mean) and modified Laspeyres weighting to eliminate fare distortion.</li>
-        <li><b>Corridor Analytics:</b> Real-time fare volatility tracking, booking-window sensitivity, and predictive fare indices across Indian domestic aviation routes.</li>
-        <li><b>Data Trust Engine:</b> Automated reconciliation with DGCA reference metrics and policy simulation.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <br/>
-      <a href="https://github.com/Aryanxp1/Solva">
-        <img src="https://img.shields.io/badge/ENGINE_02-🔍_Solva-8B5CF6?style=for-the-badge&labelColor=090D18" height="28"/>
-      </a>
-      <p><b>Local-First AI Pipeline for Data Quality &amp; Anomaly Remediation</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-090D18?style=flat-square&labelColor=090D18&color=8B949E" height="20"/>
-        <img src="https://img.shields.io/badge/Ollama-Local_AI-0284C7?style=flat-square&labelColor=090D18" height="20"/>
-        <img src="https://img.shields.io/badge/Streamlit-090D18?style=flat-square&labelColor=090D18&color=8B949E" height="20"/>
-        <img src="https://img.shields.io/badge/ETL_Quality-Automated-8B5CF6?style=flat-square&labelColor=090D18" height="20"/>
-      </p>
-      <ul>
-        <li><b>Outlier &amp; Anomaly Detection:</b> Real-time statistical monitoring for distribution drifts, null bursts, and schema breaks in streaming pipelines.</li>
-        <li><b>Safe Local Remediation:</b> Integrates local SLMs via Ollama to generate structured remediation proposals without leaking proprietary data to cloud APIs.</li>
-        <li><b>Bounded Control Loop:</b> Enforces strict data contracts and preview approval gates before applying dataset transformations.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <br/>
-      <a href="https://github.com/Aryanxp1/ResiliX">
-        <img src="https://img.shields.io/badge/CORE_03-🛡️_ResiliX-0369A1?style=for-the-badge&labelColor=090D18" height="28"/>
-      </a>
-      <p><b>Controlled Resilience-Testing &amp; Chaos Engineering Platform</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python_3.11+-090D18?style=flat-square&labelColor=090D18&color=8B949E" height="20"/>
-        <img src="https://img.shields.io/badge/Chaos_Engineering-0284C7?style=flat-square&labelColor=090D18" height="20"/>
-        <img src="https://img.shields.io/badge/Safety_Gate-Token_Bucket-8B5CF6?style=flat-square&labelColor=090D18" height="20"/>
-      </p>
-      <ul>
-        <li><b>Safety-Gated Stress Injection:</b> Strict target allowlisting, hard duration caps, token-bucket concurrency limiters, and a global emergency killswitch.</li>
-        <li><b>Recovery Telemetry:</b> Benchmarks service recovery latency, tail metrics (p95/p99), and generates automated resilience scores.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <br/>
-      <a href="https://github.com/Aryanxp1/forge">
-        <img src="https://img.shields.io/badge/ENGINE_04-💾_Forge-7C3AED?style=for-the-badge&labelColor=090D18" height="28"/>
-      </a>
-      <p><b>Zero-Dependency Local Data Engine &amp; Storage Core</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-090D18?style=flat-square&labelColor=090D18&color=8B949E" height="20"/>
-        <img src="https://img.shields.io/badge/Zero_Dependencies-0284C7?style=flat-square&labelColor=090D18" height="20"/>
-        <img src="https://img.shields.io/badge/Crash_Recovery-WAL-8B5CF6?style=flat-square&labelColor=090D18" height="20"/>
-      </p>
-      <ul>
-        <li><b>Zero-Dependency Core:</b> Engineered from scratch using pure Python standard libraries without external ORM or database driver bloat.</li>
-        <li><b>Crash-Resistant Storage:</b> Write-Ahead Log (WAL) mechanics, checksum data verification, and automatic state recovery on crash.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+---
+
+### <img src="https://img.shields.io/badge/01-0284C7?style=flat-square&labelColor=090D18" height="20"/> &nbsp; ✈️ [VayuSutra-APIx](https://github.com/Aryanxp1/VayuSutra-APIx)
+
+> **Econometric Aviation Intelligence & Airfare Price Index Platform**
+
+<p>
+  <a href="https://vayusutra-apix.onrender.com/"><img src="https://img.shields.io/badge/Live_Platform-Render-0284C7?style=flat-square&labelColor=090D18" height="20"/></a>
+  <a href="https://github.com/Aryanxp1/VayuSutra-APIx"><img src="https://img.shields.io/badge/Repository-Aryanxp1%2FVayuSutra--APIx-090D18?style=flat-square&labelColor=090D18&color=0284C7" height="20"/></a>
+  <img src="https://img.shields.io/badge/FastAPI-090D18?style=flat-square&labelColor=090D18&color=8B949E" height="20"/>
+  <img src="https://img.shields.io/badge/CPI_Methodology-Jevons_%2B_Laspeyres-8B5CF6?style=flat-square&labelColor=090D18" height="20"/>
+</p>
+
+- **Statistically Defensible CPI:** Built according to MoSPI CPI 2024 standards using the Jevons elementary index (geometric mean) and modified Laspeyres weighting to eliminate fare distortion.
+- **Corridor Analytics:** Real-time fare volatility tracking, booking-window sensitivity, and predictive fare indices across Indian domestic aviation routes.
+- **Data Trust Engine:** Automated reconciliation with DGCA reference metrics and policy simulation.
+
+---
+
+### <img src="https://img.shields.io/badge/02-8B5CF6?style=flat-square&labelColor=090D18" height="20"/> &nbsp; 🔍 [Solva](https://github.com/Aryanxp1/Solva)
+
+> **Local-First AI Pipeline for Data Quality & Anomaly Remediation**
+
+<p>
+  <a href="https://github.com/Aryanxp1/Solva"><img src="https://img.shields.io/badge/Repository-Aryanxp1%2FSolva-090D18?style=flat-square&labelColor=090D18&color=8B5CF6" height="20"/></a>
+  <img src="https://img.shields.io/badge/Ollama-Local_AI-0284C7?style=flat-square&labelColor=090D18" height="20"/>
+  <img src="https://img.shields.io/badge/Streamlit-090D18?style=flat-square&labelColor=090D18&color=8B949E" height="20"/>
+  <img src="https://img.shields.io/badge/Python_3.11-090D18?style=flat-square&labelColor=090D18&color=8B949E" height="20"/>
+  <img src="https://img.shields.io/badge/ETL_Quality-Automated-8B5CF6?style=flat-square&labelColor=090D18" height="20"/>
+</p>
+
+- **Outlier & Anomaly Detection:** Real-time statistical monitoring for distribution drifts, null bursts, and schema breaks in streaming pipelines.
+- **Safe Local Remediation:** Integrates local SLMs via Ollama to generate structured remediation proposals without leaking proprietary data to cloud APIs.
+- **Bounded Control Loop:** Enforces strict data contracts and preview approval gates before applying dataset transformations.
+
+---
+
+### <img src="https://img.shields.io/badge/03-0369A1?style=flat-square&labelColor=090D18" height="20"/> &nbsp; 🛡️ [ResiliX](https://github.com/Aryanxp1/ResiliX)
+
+> **Controlled Resilience-Testing & Chaos Engineering Platform**
+
+<p>
+  <a href="https://github.com/Aryanxp1/ResiliX"><img src="https://img.shields.io/badge/Repository-Aryanxp1%2FResiliX-090D18?style=flat-square&labelColor=090D18&color=0369A1" height="20"/></a>
+  <img src="https://img.shields.io/badge/Chaos_Engineering-0284C7?style=flat-square&labelColor=090D18" height="20"/>
+  <img src="https://img.shields.io/badge/Safety_Gate-Token_Bucket-8B5CF6?style=flat-square&labelColor=090D18" height="20"/>
+  <img src="https://img.shields.io/badge/Python_3.11+-090D18?style=flat-square&labelColor=090D18&color=8B949E" height="20"/>
+</p>
+
+- **Safety-Gated Stress Injection:** Strict target allowlisting, hard duration caps, token-bucket concurrency limiters, and a global emergency killswitch.
+- **Recovery Telemetry:** Benchmarks service recovery latency, tail metrics (p95/p99), and generates automated resilience scores.
+
+---
+
+### <img src="https://img.shields.io/badge/04-7C3AED?style=flat-square&labelColor=090D18" height="20"/> &nbsp; 💾 [Forge](https://github.com/Aryanxp1/forge)
+
+> **Zero-Dependency Local Data Engine & Storage Core**
+
+<p>
+  <a href="https://github.com/Aryanxp1/forge"><img src="https://img.shields.io/badge/Repository-Aryanxp1%2Fforge-090D18?style=flat-square&labelColor=090D18&color=7C3AED" height="20"/></a>
+  <img src="https://img.shields.io/badge/Zero_Dependencies-0284C7?style=flat-square&labelColor=090D18" height="20"/>
+  <img src="https://img.shields.io/badge/Crash_Recovery-WAL-8B5CF6?style=flat-square&labelColor=090D18" height="20"/>
+  <img src="https://img.shields.io/badge/Python_Core-090D18?style=flat-square&labelColor=090D18&color=8B949E" height="20"/>
+</p>
+
+- **Zero-Dependency Core:** Engineered from scratch using pure Python standard libraries without external ORM or database driver bloat.
+- **Crash-Resistant Storage:** Write-Ahead Log (WAL) mechanics, checksum data verification, and automatic state recovery on crash.
+
+---
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/Aryanxp1?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_20_REPOSITORIES-090D18?style=for-the-badge&labelColor=090D18&color=00F0FF" height="28"/></a>
+  <a href="https://github.com/Aryanxp1?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_20_REPOSITORIES-090D18?style=for-the-badge&labelColor=090D18&color=0284C7" height="28"/></a>
 </div>
 
 <br/>
