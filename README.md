@@ -217,10 +217,6 @@ class AryanVishwakarma:
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryanxp1&custom_title=contribution%20telemetry&hide_border=true&bg_color=090D18&color=94A3B8&line=00F0FF&point=F8FAFC&area=true&area_color=00F0FF18&title_color=00F0FF" width="98%"/>
-
-<br/><br/>
-
 <!-- ══════════════════════ RETRO NEON LINE WAVE ══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Cyber retro line animation"/>
 
