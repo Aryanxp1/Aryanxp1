@@ -13,17 +13,17 @@
 <br/>
 
 <!-- ══════════════════════ INTERACTIVE ACTION HUD ══════════════════════ -->
-<a href="https://linkedin.com/in/aryan-vishwakarma-8973a3327/"><img src="https://img.shields.io/badge/LINKEDIN-090D18?style=for-the-badge&labelColor=090D18&color=00F0FF" height="26"/></a>
+<a href="https://linkedin.com/in/aryan-vishwakarma-8973a3327/"><img src="https://img.shields.io/badge/LINKEDIN-090D18?style=for-the-badge&labelColor=090D18&color=0284C7" height="26"/></a>
 <a href="https://leetcode.com/u/aizen_xp/"><img src="https://img.shields.io/badge/LEETCODE-090D18?style=for-the-badge&labelColor=090D18&color=8B5CF6" height="26"/></a>
-<a href="https://github.com/Aryanxp1?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-090D18?style=for-the-badge&labelColor=090D18&color=38BDF8" height="26"/></a>
+<a href="https://github.com/Aryanxp1?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-090D18?style=for-the-badge&labelColor=090D18&color=0369A1" height="26"/></a>
 <a href="https://vayusutra-apix.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20PLATFORM-090D18?style=for-the-badge&labelColor=090D18&color=6366F1" height="26"/></a>
 
 <br/><br/>
 
-<img src="https://api.visitorbadge.io/api/visitors?path=Aryanxp1&label=Profile%20Telemetry&countColor=%2300f0ff&style=flat-square" height="20"/>
-<img src="https://img.shields.io/badge/specialization-Data_Science_%26_AI_Engines-0E1322?style=flat-square&labelColor=0E1322&color=00F0FF" height="20"/>
-<img src="https://img.shields.io/badge/status-analyzing_%26_building-0E1322?style=flat-square&labelColor=0E1322&color=8B5CF6" height="20"/>
-<img src="https://img.shields.io/badge/based_in-India-0E1322?style=flat-square&labelColor=0E1322&color=64748B" height="20"/>
+<img src="https://komarev.com/ghpvc/?username=Aryanxp1&color=0284c7&style=flat-square&label=PROFILE+TELEMETRY" height="20"/>
+<img src="https://img.shields.io/badge/specialization-Data_Science_%26_AI_Engines-0284C7?style=flat-square&labelColor=090D18" height="20"/>
+<img src="https://img.shields.io/badge/status-analyzing_%26_building-7C3AED?style=flat-square&labelColor=090D18" height="20"/>
+<img src="https://img.shields.io/badge/based_in-India-1E293B?style=flat-square&labelColor=090D18" height="20"/>
 
 </div>
 
