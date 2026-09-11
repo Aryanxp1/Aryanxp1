@@ -1,29 +1,29 @@
 <div align="center">
 
-<!-- ══════════════════════ HEADER BANNER (SELF-HOSTED ANIMATED SVG) ══════════════════════ -->
-<img src="banner.svg" width="100%" alt="Aryan Vishwakarma — AI Systems, Resilient Data Engines, Algorithmic Engineering"/>
+<!-- ══════════════════════ DYNAMIC COMMAND BANNER ══════════════════════ -->
+<img src="banner.svg" width="100%" alt="Aryan Vishwakarma — AI Systems Engineer, Data Scientist, ML Practitioner, Data Analyst"/>
 
 <br/>
 
-<!-- ══════════════════════ DYNAMIC TYPING SVG ══════════════════════ -->
+<!-- ══════════════════════ TYPING HEADLINE (CYAN & VIOLET) ══════════════════════ -->
 <a href="https://github.com/Aryanxp1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=00FF66&center=true&vCenter=true&width=800&height=46&lines=Architecting+Autonomous+AI+%26+Resilient+Data+Pipelines;Building+Fault-Tolerant+Local+Storage+Engines;CPI-Grade+Aviation+Price+Index+Intelligence;700%2B+DSA+Solved+%7C+LeetCode+Grinder+%40aizen_xp;Code+like+Senku%2C+think+like+Aizen." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=860&height=46&lines=AI+Systems+Engineer+%7C+Data+Scientist+%7C+ML+Practitioner+%7C+Data+Analyst;Turning+Raw+Statistical+Variance+into+Real+Decisions;CPI-Grade+Econometric+Airfare+Price+Index+Engines;Competitive+Programming+%7C+LeetCode+Grinder+%40aizen_xp;Code+like+Senku%2C+think+like+Aizen." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ══════════════════════ ACTION BADGES ══════════════════════ -->
-<a href="https://linkedin.com/in/aryan-vishwakarma-8973a3327/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF66" height="26"/></a>
-<a href="https://leetcode.com/u/aizen_xp/"><img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&labelColor=0D1117&color=FFA116" height="26"/></a>
-<a href="https://github.com/Aryanxp1?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-0D1117?style=for-the-badge&labelColor=0D1117&color=00E5FF" height="26"/></a>
-<a href="https://vayusutra-apix.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0D1117?style=for-the-badge&labelColor=0D1117&color=10B981" height="26"/></a>
+<!-- ══════════════════════ INTERACTIVE ACTION HUD ══════════════════════ -->
+<a href="https://linkedin.com/in/aryan-vishwakarma-8973a3327/"><img src="https://img.shields.io/badge/LINKEDIN-090D18?style=for-the-badge&labelColor=090D18&color=00F0FF" height="26"/></a>
+<a href="https://leetcode.com/u/aizen_xp/"><img src="https://img.shields.io/badge/LEETCODE-090D18?style=for-the-badge&labelColor=090D18&color=8B5CF6" height="26"/></a>
+<a href="https://github.com/Aryanxp1?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-090D18?style=for-the-badge&labelColor=090D18&color=38BDF8" height="26"/></a>
+<a href="https://vayusutra-apix.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20PLATFORM-090D18?style=for-the-badge&labelColor=090D18&color=6366F1" height="26"/></a>
 
 <br/><br/>
 
-<img src="https://api.visitorbadge.io/api/visitors?path=Aryanxp1&label=Profile%20Views&countColor=%2300ff66&style=flat-square" height="20"/>
-<img src="https://img.shields.io/badge/based_in-India-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" height="20"/>
-<img src="https://img.shields.io/badge/domain-AI_Systems_%26_Data_Engines-0D1117?style=flat-square&labelColor=0D1117&color=00FF66" height="20"/>
-<img src="https://img.shields.io/badge/status-active_building-0D1117?style=flat-square&labelColor=0D1117&color=00E5FF" height="20"/>
+<img src="https://api.visitorbadge.io/api/visitors?path=Aryanxp1&label=Profile%20Telemetry&countColor=%2300f0ff&style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/specialization-Data_Science_%26_AI_Engines-0E1322?style=flat-square&labelColor=0E1322&color=00F0FF" height="20"/>
+<img src="https://img.shields.io/badge/status-analyzing_%26_building-0E1322?style=flat-square&labelColor=0E1322&color=8B5CF6" height="20"/>
+<img src="https://img.shields.io/badge/based_in-India-0E1322?style=flat-square&labelColor=0E1322&color=64748B" height="20"/>
 
 </div>
 
@@ -36,136 +36,119 @@
 
 <br/>
 
-```
-────────────────────────────────────────────────────────────────────────────
-                                                                      I. WHO
-────────────────────────────────────────────────────────────────────────────
-```
+### `// EXECUTIVE DOSSIER`
 
 > *"The quieter you become, the more you can hear."*  
-> *Systems should be deterministic by design, fault-tolerant by architecture, and proven through metrics.*
+> *Data is chaotic until structured; systems are fragile until bounded.*
 
-I build **local-first AI pipelines**, **resilience-testing platforms**, and **zero-dependency storage engines**. I focus on engineering layers that refuse to lose data, break under unexpected load, or produce untrusted hallucinations.
+I operate at the convergence of **AI Systems Engineering, Data Science, Machine Learning, and Quantitative Analysis**. Whether it's architecting statistically defensible price indices (Jevons/Laspeyres methodologies), hunting pipeline anomalies with local LLMs, or designing zero-dependency persistent storage engines, I build software where **every number is verifiable and every transaction is durable.**
 
 ```python
-class Aryan:
-    name        = "Aryan Vishwakarma"
-    handle      = "Aryanxp1"
-    role        = "AI Systems Engineer & Data Platform Architect"
-    education   = "Madan Mohan Malaviya University of Technology"
-    core_stack  = ["Python", "C++", "TypeScript", "SQL", "Bash"]
-    specialties = ["Local-First AI", "Chaos & Resilience Engineering", "Storage Engines", "DSA"]
-    dsa_record  = "700+ LeetCode & Contest Problems Solved (handle: aizen_xp)"
-    principle   = "Deterministic execution · Zero-data-loss · Verifiable telemetry"
-    creed       = "Code like Senku, think like Aizen"
+class AryanVishwakarma:
+    def __init__(self):
+        self.handle       = "Aryanxp1"
+        self.roles        = [
+            "AI Systems Engineer",
+            "Data Scientist",
+            "ML Practitioner",
+            "Data Analyst"
+        ]
+        self.institution  = "Madan Mohan Malaviya University of Technology"
+        self.focus_areas  = [
+            "Econometric & Statistical Indexing (CPI)",
+            "Predictive Modeling & Anomaly Detection",
+            "Local-First AI Pipelines (Ollama / SLMs)",
+            "Chaos Engineering & Fault-Tolerant Storage"
+        ]
+        self.dsa_record   = "Competitive Programming & Problem Solving (handle: aizen_xp)"
+        self.principles   = ["Defensible Statistics", "Zero Data Loss", "Bounded Convergence"]
+        self.creed        = "Code like Senku, think like Aizen"
 ```
 
 <br/>
 
-<!-- ══════════════════════ DURABLE PIPELINE CONTRACT ══════════════════════ -->
+<!-- ══════════════════════ DUAL-TIER ENGINE ARCHITECTURE SVG ══════════════════════ -->
 <div align="center">
-  <img src="pipeline.svg" width="100%" alt="Durable System Architecture & Execution Pipeline"/>
+  <img src="pipeline.svg" width="100%" alt="Aryanxp1 Dual-Core Architecture Matrix"/>
 </div>
 
 <br/>
 
-<!-- ══════════════════════ PACMAN EATING DOTS ══════════════════════ -->
+<!-- ══════════════════════ PACMAN EATING DOTS ANIMATION ══════════════════════ -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="420" alt="Pacman animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400" alt="Pacman animation"/>
 </div>
 
 <br/>
 
-```
-────────────────────────────────────────────────────────────────────────────
-                                                       II. FLAGSHIP SYSTEMS
-────────────────────────────────────────────────────────────────────────────
-```
+### `// FLAGSHIP SYSTEMS & DATA PLATFORMS`
 
-### <img src="https://img.shields.io/badge/01-00FF66?style=flat-square&labelColor=0D1117" height="18"/> &nbsp; Solva — Local-First AI ETL Quality & Anomaly Remediation
-
-<a href="https://github.com/Aryanxp1/Solva"><img src="https://img.shields.io/badge/Aryanxp1%2FSolva-0D1117?style=flat-square&labelColor=0D1117&color=00FF66" height="22"/></a>
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" height="22"/>
-<img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" height="22"/>
-<img src="https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" height="22"/>
-<img src="https://img.shields.io/badge/Anomaly_Detection-0D1117?style=flat-square&labelColor=0D1117&color=00FF66" height="22"/>
-
-> **Local-first intelligence for ETL data quality and automated remediation.**
-
-- **Autonomous Data Remediation:** Detects drift, null bursts, schema breaks, and statistical outliers in streaming data pipelines.
-- **Privacy-Preserving & Local-First:** Integrates local LLMs via Ollama to produce safe transformation proposals without leaking sensitive enterprise data to third-party cloud APIs.
-- **Bounded Remediation Loop:** Employs defensive guards and human-in-the-loop review screens before applying data corrections.
-
----
-
-### <img src="https://img.shields.io/badge/02-00E5FF?style=flat-square&labelColor=0D1117" height="18"/> &nbsp; VayuSutra-APIx — Aviation Intelligence & Real-Time Airfare Index
-
-<a href="https://github.com/Aryanxp1/VayuSutra-APIx"><img src="https://img.shields.io/badge/Aryanxp1%2FVayuSutra--APIx-0D1117?style=flat-square&labelColor=0D1117&color=00E5FF" height="22"/></a>
-<a href="https://vayusutra-apix.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-Render-00E5FF?style=flat-square&labelColor=0D1117" height="22"/></a>
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" height="22"/>
-<img src="https://img.shields.io/badge/CPI_Methodology-Jevons%20%2B%20Laspeyres-00E5FF?style=flat-square&labelColor=0D1117" height="22"/>
-
-> **Aviation intelligence platform for price indices, corridor analytics, and policy simulation.**
-
-- **Statistically Defensible Index Engine:** Computes elementary price indices using geometric means (Jevons Formula) to eliminate outlier bias, combined with modified Laspeyres expenditure weighting.
-- **Corridor Analytics & Forecasting:** Maps route-level dynamics, carrier pricing power, and advance-purchase volatility (grounded in MoSPI CPI 2024 recommendations).
-- **Data Trust & Anomaly Verification:** Continuous data validation pipelines ensuring statistical integrity across airlines and booking windows.
-
----
-
-### <img src="https://img.shields.io/badge/03-10B981?style=flat-square&labelColor=0D1117" height="18"/> &nbsp; ResiliX — Controlled Chaos & Resilience Platform
-
-<a href="https://github.com/Aryanxp1/ResiliX"><img src="https://img.shields.io/badge/Aryanxp1%2FResiliX-0D1117?style=flat-square&labelColor=0D1117&color=10B981" height="22"/></a>
-<img src="https://img.shields.io/badge/Python_3.11+-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" height="22"/>
-<img src="https://img.shields.io/badge/Chaos_Engineering-0D1117?style=flat-square&labelColor=0D1117&color=10B981" height="22"/>
-<img src="https://img.shields.io/badge/Safety_Layer-Token_Bucket_%2B_Emergency_Stop-0D1117?style=flat-square&labelColor=0D1117" height="22"/>
-
-> **Controlled resilience-testing and observability platform for modern microservices.**
-
-- **Defensive Safety Layer:** Target allowlisting, token-bucket concurrency gates, and a global emergency circuit-breaker preventing unintended cascading failures.
-- **Recovery Analytics:** Benchmarks MTTR (Mean Time to Recovery), tail latencies (p95, p99), and post-degradation system stabilization.
-- **Structured Telemetry:** Live percentile tracking, scenario definitions, and automated resilience scores.
-
----
-
-### <img src="https://img.shields.io/badge/04-38BDF8?style=flat-square&labelColor=0D1117" height="18"/> &nbsp; Forge — Zero-Dependency Local Data Engine
-
-<a href="https://github.com/Aryanxp1/forge"><img src="https://img.shields.io/badge/Aryanxp1%2Fforge-0D1117?style=flat-square&labelColor=0D1117&color=38BDF8" height="22"/></a>
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" height="22"/>
-<img src="https://img.shields.io/badge/Zero_Dependencies-0D1117?style=flat-square&labelColor=0D1117&color=38BDF8" height="22"/>
-<img src="https://img.shields.io/badge/Crash_Safe-WAL_%2B_Integrity-0D1117?style=flat-square&labelColor=0D1117" height="22"/>
-
-> **Zero-dependency local storage engine with persistent storage, integrity checks, and crash recovery.**
-
-- **Atomic Storage:** Reliable key-value persistence built purely with standard libraries without bloated external database drivers.
-- **Integrity First:** Checksum validations, write-ahead journaling principles, and crash-recovery self-healing routines.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>✈️ <a href="https://github.com/Aryanxp1/VayuSutra-APIx">VayuSutra-APIx</a></h4>
+      <p><b>Econometric Aviation Intelligence &amp; Airfare Price Index Platform</b></p>
+      <p>
+        <a href="https://vayusutra-apix.onrender.com/"><img src="https://img.shields.io/badge/Live_Deployment-Render-00F0FF?style=flat-square&labelColor=090D18" height="20"/></a>
+        <img src="https://img.shields.io/badge/FastAPI-090D18?style=flat-square&labelColor=090D18&color=8B949E" height="20"/>
+        <img src="https://img.shields.io/badge/CPI_Methodology-Jevons_%2B_Laspeyres-8B5CF6?style=flat-square&labelColor=090D18" height="20"/>
+      </p>
+      <ul>
+        <li><b>Statistically Defensible CPI:</b> Built according to MoSPI CPI 2024 standards using the Jevons elementary index (geometric mean) and modified Laspeyres weighting to eliminate fare distortion.</li>
+        <li><b>Corridor Analytics:</b> Real-time fare volatility tracking, booking-window sensitivity, and predictive fare indices across Indian domestic aviation routes.</li>
+        <li><b>Data Trust Engine:</b> Automated reconciliation with DGCA reference metrics and policy simulation.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔍 <a href="https://github.com/Aryanxp1/Solva">Solva</a></h4>
+      <p><b>Local-First AI Pipeline for Data Quality &amp; Anomaly Remediation</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-090D18?style=flat-square&labelColor=090D18&color=8B949E" height="20"/>
+        <img src="https://img.shields.io/badge/Ollama-Local_AI-00F0FF?style=flat-square&labelColor=090D18" height="20"/>
+        <img src="https://img.shields.io/badge/Streamlit-090D18?style=flat-square&labelColor=090D18&color=8B949E" height="20"/>
+        <img src="https://img.shields.io/badge/ETL_Quality-Automated-8B5CF6?style=flat-square&labelColor=090D18" height="20"/>
+      </p>
+      <ul>
+        <li><b>Outlier &amp; Anomaly Detection:</b> Real-time statistical monitoring for distribution drifts, null bursts, and schema breaks in streaming pipelines.</li>
+        <li><b>Safe Local Remediation:</b> Integrates local SLMs via Ollama to generate structured remediation proposals without leaking proprietary data to cloud APIs.</li>
+        <li><b>Bounded Control Loop:</b> Enforces strict data contracts and preview approval gates before applying dataset transformations.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ <a href="https://github.com/Aryanxp1/ResiliX">ResiliX</a></h4>
+      <p><b>Controlled Resilience-Testing &amp; Chaos Engineering Platform</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python_3.11+-090D18?style=flat-square&labelColor=090D18&color=8B949E" height="20"/>
+        <img src="https://img.shields.io/badge/Chaos_Engineering-00F0FF?style=flat-square&labelColor=090D18" height="20"/>
+        <img src="https://img.shields.io/badge/Safety_Gate-Token_Bucket-8B5CF6?style=flat-square&labelColor=090D18" height="20"/>
+      </p>
+      <ul>
+        <li><b>Safety-Gated Stress Injection:</b> Strict target allowlisting, hard duration caps, token-bucket concurrency limiters, and a global emergency killswitch.</li>
+        <li><b>Recovery Telemetry:</b> Benchmarks service recovery latency, tail metrics (p95/p99), and generates automated resilience scores.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💾 <a href="https://github.com/Aryanxp1/forge">Forge</a></h4>
+      <p><b>Zero-Dependency Local Data Engine &amp; Storage Core</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-090D18?style=flat-square&labelColor=090D18&color=8B949E" height="20"/>
+        <img src="https://img.shields.io/badge/Zero_Dependencies-00F0FF?style=flat-square&labelColor=090D18" height="20"/>
+        <img src="https://img.shields.io/badge/Crash_Recovery-WAL-8B5CF6?style=flat-square&labelColor=090D18" height="20"/>
+      </p>
+      <ul>
+        <li><b>Zero-Dependency Core:</b> Engineered from scratch using pure Python standard libraries without external ORM or database driver bloat.</li>
+        <li><b>Crash-Resistant Storage:</b> Write-Ahead Log (WAL) mechanics, checksum data verification, and automatic state recovery on crash.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/Aryanxp1?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_20_REPOSITORIES-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF66" height="28"/></a>
-</div>
-
-<br/>
-
-```
-────────────────────────────────────────────────────────────────────────────
-                                                    III. ALGORITHMIC RIGOR
-────────────────────────────────────────────────────────────────────────────
-```
-
-<div align="center">
-
-<a href="https://leetcode.com/u/aizen_xp/">
-  <img src="https://leetcard.jacoblin.cool/aizen_xp?theme=dark&font=source_code_pro&ext=heatmap&border=0&radius=10" alt="LeetCode Stats for aizen_xp" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Aryanxp1/DSA-Solutions"><img src="https://img.shields.io/badge/DSA--Solutions-Python%20%26%20C%2B%2B-00FF66?style=flat-square&labelColor=0D1117" height="22"/></a>
-&nbsp;
-<a href="https://github.com/Aryanxp1/Codeforces-Solution"><img src="https://img.shields.io/badge/Codeforces--Solutions-Competitive%20Archive-FFA116?style=flat-square&labelColor=0D1117" height="22"/></a>
-
+  <a href="https://github.com/Aryanxp1?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_20_REPOSITORIES-090D18?style=for-the-badge&labelColor=090D18&color=00F0FF" height="28"/></a>
 </div>
 
 <br/>
@@ -177,66 +160,79 @@ class Aryan:
 
 <br/>
 
-```
-────────────────────────────────────────────────────────────────────────────
-                                                          IV. WEAPONS & TECH
-────────────────────────────────────────────────────────────────────────────
-```
+### `// ALGORITHMIC MASTERY`
 
 <div align="center">
 
-**LANGUAGES & CORE**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,bash&theme=dark" />
-
-<br/><br/>
-
-**DATA SYSTEMS, AI & INFRASTRUCTURE**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,fastapi,postgres,sqlite,redis,docker,linux,git,github,githubactions&theme=dark" />
+<a href="https://leetcode.com/u/aizen_xp/">
+  <img src="https://leetcard.jacoblin.cool/aizen_xp?theme=dark&font=source_code_pro&ext=heatmap&border=0&radius=12" alt="LeetCode Profile for aizen_xp" />
+</a>
 
 <br/><br/>
 
-**INTERFACES & TOOLS**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,supabase,firebase,vscode,postman&theme=dark" />
+<a href="https://github.com/Aryanxp1/DSA-Solutions"><img src="https://img.shields.io/badge/DSA--Solutions-Algorithmic%20Repository-00F0FF?style=flat-square&labelColor=090D18" height="22"/></a>
+&nbsp;
+<a href="https://github.com/Aryanxp1/Codeforces-Solution"><img src="https://img.shields.io/badge/Codeforces--Solutions-Competitive%20Archive-8B5CF6?style=flat-square&labelColor=090D18" height="22"/></a>
 
 </div>
 
 <br/>
 
-```
-────────────────────────────────────────────────────────────────────────────
-                                                        V. TELEMETRY & STATS
-────────────────────────────────────────────────────────────────────────────
-```
+### `// ARSENAL & TOOLKIT`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Aryanxp1&hide_border=true&background=0D1117&stroke=21262D&ring=00FF66&fire=00FF66&currStreakNum=F0FFF4&sideNums=F0FFF4&currStreakLabel=00FF66&sideLabels=8B949E&dates=6E7681" width="62%"/>
+**DATA SCIENCE, ANALYTICS & MACHINE LEARNING**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statsmodels-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+**LANGUAGES, BACKEND & PERSISTENCE**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,bash,fastapi,postgres,sqlite,redis,docker,linux,git&theme=dark" />
+</p>
+
+**INTERFACES, VISUALIZATION & PLATFORMS**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,supabase,firebase,vscode,postman&theme=dark" />
+</p>
+
+</div>
+
+<br/>
+
+### `// TELEMETRY & ACTIVITY`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Aryanxp1&hide_border=true&background=090D18&stroke=1E2640&ring=00F0FF&fire=00F0FF&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=00F0FF&sideLabels=94A3B8&dates=64748B" width="62%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryanxp1&custom_title=contribution%20telemetry&hide_border=true&bg_color=0D1117&color=8B949E&line=00FF66&point=F0FFF4&area=true&area_color=00FF6620&title_color=00FF66" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryanxp1&custom_title=contribution%20telemetry&hide_border=true&bg_color=090D18&color=94A3B8&line=00F0FF&point=F8FAFC&area=true&area_color=00F0FF18&title_color=00F0FF" width="98%"/>
 
 <br/><br/>
 
 <!-- ══════════════════════ RETRO NEON LINE WAVE ══════════════════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="420" alt="Cyber retro line animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Cyber retro line animation"/>
 
 </div>
 
 <br/>
 
-```
-────────────────────────────────────────────────────────────────────────────
-                                                                 VI. CONNECT
-────────────────────────────────────────────────────────────────────────────
-```
+### `// DIRECT TRANSMISSION`
 
 <div align="center">
 
-**Always open to collaborating on high-stakes AI pipelines, distributed data engines, and algorithmic systems.**
+**Interested in building statistically rigorous models, local AI engines, or resilient data architectures? Let's connect.**
 
 <br/>
 
@@ -244,11 +240,11 @@ class Aryan:
 &nbsp;
 <a href="https://leetcode.com/u/aizen_xp/"><img src="https://img.shields.io/badge/LeetCode-aizen__xp-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30"/></a>
 &nbsp;
-<a href="https://github.com/Aryanxp1"><img src="https://img.shields.io/badge/GitHub-Aryanxp1-0D1117?style=for-the-badge&logo=github&logoColor=00FF66" height="30"/></a>
+<a href="https://github.com/Aryanxp1"><img src="https://img.shields.io/badge/GitHub-Aryanxp1-090D18?style=for-the-badge&logo=github&logoColor=00F0FF" height="30"/></a>
 
 <br/><br/>
 
-<!-- ══════════════════════ SELF-HOSTED FOOTER SVG ══════════════════════ -->
+<!-- ══════════════════════ FOOTER SVG ══════════════════════ -->
 <img src="footer.svg" width="100%" alt="Aryanxp1 Footer"/>
 
 </div>

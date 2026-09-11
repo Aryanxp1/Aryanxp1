@@ -1,102 +1,161 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-label="Aryanxp1 Durable System Architecture and Pipeline Contract">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-label="Aryanxp1 End-to-End Data Science & AI Systems Flow Matrix">
   <defs>
-    <linearGradient id="pipeDark" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%"   stop-color="#06090E"/>
-      <stop offset="60%"  stop-color="#0A1017"/>
-      <stop offset="100%" stop-color="#0F1722"/>
+    <!-- Background Gradient -->
+    <linearGradient id="matrixVoid" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#060810"/>
+      <stop offset="50%"  stop-color="#090D18"/>
+      <stop offset="100%" stop-color="#0E1222"/>
     </linearGradient>
 
-    <linearGradient id="pipeEdge" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%"   stop-color="#00FF66" stop-opacity="0.3"/>
-      <stop offset="50%"  stop-color="#00E5FF" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#00FF66" stop-opacity="0.3"/>
+    <!-- Branch Paths Gradient -->
+    <linearGradient id="cyanBranch" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#6366F1"/>
+      <stop offset="50%"  stop-color="#00F0FF"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
     </linearGradient>
 
-    <linearGradient id="pipeRule" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%"   stop-color="#00FF66" stop-opacity="0"/>
-      <stop offset="35%"  stop-color="#00FF66" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#00FF66" stop-opacity="0"/>
+    <linearGradient id="violetBranch" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#6366F1"/>
+      <stop offset="50%"  stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#EC4899"/>
     </linearGradient>
 
-    <pattern id="pipeGrid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#00FF66" stroke-opacity="0.035" stroke-width="1"/>
+    <!-- Grid Pattern -->
+    <pattern id="flowGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#6366F1" stroke-opacity="0.04" stroke-width="1"/>
     </pattern>
 
-    <clipPath id="pipeFrame">
-      <rect width="1000" height="230" rx="12"/>
+    <clipPath id="matrixClip">
+      <rect width="1000" height="270" rx="14"/>
     </clipPath>
 
-    <path id="pipelineTrack" d="M30 110 L970 110"/>
+    <!-- Animated Dual Branch Paths -->
+    <!-- Top Path: Data Science & Analytics (Ingest -> Solva -> VayuSutra -> Output) -->
+    <path id="topTrack" d="M 120 135 C 190 135, 210 75, 300 75 L 430 75 C 500 75, 520 75, 600 75 L 720 75 C 800 75, 820 135, 890 135"/>
+
+    <!-- Bottom Path: AI Systems & Storage (Ingest -> ResiliX -> Forge -> Output) -->
+    <path id="bottomTrack" d="M 120 135 C 190 135, 210 195, 300 195 L 430 195 C 500 195, 520 195, 600 195 L 720 195 C 800 195, 820 135, 890 135"/>
   </defs>
 
-  <g clip-path="url(#pipeFrame)">
-    <rect width="1000" height="230" fill="url(#pipeDark)"/>
-    <rect width="1000" height="230" fill="url(#pipeGrid)"/>
+  <g clip-path="url(#matrixClip)">
+    <rect width="1000" height="270" fill="url(#matrixVoid)"/>
+    <rect width="1000" height="270" fill="url(#flowGrid)"/>
 
-    <!-- Section Header -->
-    <text x="36" y="38" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
-          font-size="11.5" letter-spacing="3.2" font-weight="700" fill="#00FF66">DURABLE SYSTEM ARCHITECTURE // EXECUTION CONTRACT</text>
-    <rect x="36" y="48" width="120" height="2" fill="url(#pipeRule)"/>
-
-    <!-- Central Backbone Track -->
-    <line x1="30" y1="110" x2="970" y2="110" stroke="url(#pipeEdge)" stroke-width="1.8"/>
-
-    <!-- Pipeline Nodes -->
-    <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#E2E8F0" text-anchor="middle">
-      <!-- Stage 1 -->
-      <rect x="30" y="90" width="94" height="40" rx="7" fill="#0D1520" stroke="#1E293B" stroke-width="1.2"/>
-      <text x="77" y="115">Ingestion</text>
-
-      <!-- Stage 2: Solva AI -->
-      <rect x="144" y="90" width="124" height="40" rx="7" fill="#0D1520" stroke="#00FF66" stroke-width="1.4"/>
-      <text x="206" y="110" fill="#00FF66" font-weight="700">Solva AI</text>
-      <text x="206" y="123" font-size="9" fill="#94A3B8">Anomaly Filter</text>
-
-      <!-- Stage 3 -->
-      <rect x="288" y="90" width="106" height="40" rx="7" fill="#0D1520" stroke="#1E293B" stroke-width="1.2"/>
-      <text x="341" y="115">Sanitize</text>
-
-      <!-- Stage 4: ResiliX -->
-      <rect x="414" y="90" width="136" height="40" rx="7" fill="#0D1520" stroke="#00E5FF" stroke-width="1.4"/>
-      <text x="482" y="110" fill="#00E5FF" font-weight="700">ResiliX Guard</text>
-      <text x="482" y="123" font-size="9" fill="#94A3B8">Rate/Safety Limit</text>
-
-      <!-- Stage 5: Forge -->
-      <rect x="570" y="90" width="120" height="40" rx="7" fill="#0D1520" stroke="#38BDF8" stroke-width="1.4"/>
-      <text x="630" y="110" fill="#38BDF8" font-weight="700">Forge Engine</text>
-      <text x="630" y="123" font-size="9" fill="#94A3B8">Crash-Safe Store</text>
-
-      <!-- Stage 6: VayuSutra -->
-      <rect x="710" y="90" width="144" height="40" rx="7" fill="#0D1520" stroke="#10B981" stroke-width="1.4"/>
-      <text x="782" y="110" fill="#10B981" font-weight="700">VayuSutra APIx</text>
-      <text x="782" y="123" font-size="9" fill="#94A3B8">Index / Analytics</text>
-
-      <!-- Stage 7: Deliver -->
-      <rect x="874" y="90" width="96" height="40" rx="7" fill="#0D1520" stroke="#1E293B" stroke-width="1.2"/>
-      <text x="922" y="115">Decision</text>
+    <!-- Header Header & Metadata -->
+    <g transform="translate(36, 28)">
+      <text x="0" y="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="11" letter-spacing="3" font-weight="700" fill="#00F0FF">DUAL-CORE ARCHITECTURE // DATA SCIENCE &amp; SYSTEM ENGINES</text>
+      <text x="0" y="16" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="9.5" fill="#64748B">SYNCHRONIZED ANALYTICS &amp; FAULT-TOLERANT EXECUTION</text>
     </g>
 
-    <!-- Animated Data Packet -->
-    <circle r="4.5" fill="#FFFFFF">
-      <animateMotion dur="5.5s" repeatCount="indefinite"><mpath href="#pipelineTrack"/></animateMotion>
-      <animate attributeName="opacity" values="0;1;1;1;0" dur="5.5s" repeatCount="indefinite"/>
+    <!-- Top Track Background Line (Analytics Channel) -->
+    <path d="M 120 135 C 190 135, 210 75, 300 75 L 430 75 C 500 75, 520 75, 600 75 L 720 75 C 800 75, 820 135, 890 135"
+          fill="none" stroke="url(#cyanBranch)" stroke-width="2" stroke-opacity="0.6"/>
+
+    <!-- Bottom Track Background Line (Systems Channel) -->
+    <path d="M 120 135 C 190 135, 210 195, 300 195 L 430 195 C 500 195, 520 195, 600 195 L 720 195 C 800 195, 820 135, 890 135"
+          fill="none" stroke="url(#violetBranch)" stroke-width="2" stroke-opacity="0.6"/>
+
+    <!-- Animated Data Packets (Analytics: Cyan; Systems: Violet) -->
+    <circle r="4.5" fill="#00F0FF">
+      <animateMotion dur="4.2s" repeatCount="indefinite"><mpath href="#topTrack"/></animateMotion>
+      <animate attributeName="opacity" values="0;1;1;1;0" dur="4.2s" repeatCount="indefinite"/>
     </circle>
-    <circle r="8" fill="none" stroke="#00FF66" stroke-width="1.5">
-      <animateMotion dur="5.5s" repeatCount="indefinite"><mpath href="#pipelineTrack"/></animateMotion>
-      <animate attributeName="opacity" values="0;0.8;0.8;0.8;0" dur="5.5s" repeatCount="indefinite"/>
+    <circle r="4.5" fill="#EC4899">
+      <animateMotion dur="4.2s" begin="0.8s" repeatCount="indefinite"><mpath href="#bottomTrack"/></animateMotion>
+      <animate attributeName="opacity" values="0;1;1;1;0" dur="4.2s" begin="0.8s" repeatCount="indefinite"/>
     </circle>
 
-    <!-- Feedback Remediation Loop Arc -->
-    <path d="M 482 136 Q 341 184 206 136" fill="none" stroke="#00E5FF" stroke-opacity="0.6"
-          stroke-width="1.4" stroke-dasharray="4 4"/>
-    <text x="341" y="174" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
-          font-size="10.5" fill="#00E5FF" text-anchor="middle">&#8635; autonomous anomaly feedback &amp; remediation loop</text>
+    <!-- Cross-channel Remediation Sync Bridge -->
+    <line x1="365" y1="95" x2="365" y2="175" stroke="#6366F1" stroke-width="1.2" stroke-dasharray="3 3" stroke-opacity="0.5"/>
+    <text x="372" y="139" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+          font-size="8.5" fill="#8B5CF6" transform="rotate(-90 372 139)" text-anchor="middle">SYNC BRIDGE</text>
 
-    <!-- Bottom Description -->
-    <text x="36" y="212" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
-          font-size="10" fill="#64748B">local-first validation &#183; crash-recovery storage &#183; zero-dependency architecture &#183; cpi-grade indices</text>
+    <!-- NODE 1: Ingestion Gateway (Left Central) -->
+    <g transform="translate(60, 115)">
+      <rect x="0" y="0" width="110" height="40" rx="8" fill="#0D1120" stroke="#6366F1" stroke-width="1.4"/>
+      <circle cx="16" cy="20" r="4" fill="#00F0FF"/>
+      <text x="28" y="19" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="11" font-weight="700" fill="#F8FAFC">RAW INGEST</text>
+      <text x="28" y="31" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="8.5" fill="#64748B">Telemetry &amp; Feeds</text>
+    </g>
+
+    <!-- TOP CHANNEL (Data Science & Analytics) -->
+    <g transform="translate(230, 42)">
+      <rect x="0" y="0" width="134" height="20" rx="4" fill="#0E1628"/>
+      <text x="8" y="14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="9" font-weight="700" fill="#00F0FF">&#9650; DATA SCIENCE &amp; ANALYTICS TIER</text>
+    </g>
+
+    <!-- Node 2A: Solva AI (Top Left) -->
+    <g transform="translate(285, 55)">
+      <rect x="0" y="0" width="160" height="42" rx="8" fill="#0A1122" stroke="#00F0FF" stroke-width="1.4"/>
+      <text x="14" y="20" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="11.5" font-weight="700" fill="#00F0FF">SOLVA AI</text>
+      <text x="14" y="33" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="9" fill="#94A3B8">Anomaly &amp; Outlier Filter</text>
+      <!-- Small metric tag -->
+      <rect x="110" y="8" width="40" height="14" rx="3" fill="#1E293B"/>
+      <text x="130" y="18" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="7.5" fill="#38BDF8" text-anchor="middle">OLLAMA</text>
+    </g>
+
+    <!-- Node 3A: VayuSutra APIx (Top Right) -->
+    <g transform="translate(560, 55)">
+      <rect x="0" y="0" width="170" height="42" rx="8" fill="#0A1122" stroke="#38BDF8" stroke-width="1.4"/>
+      <text x="14" y="20" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="11.5" font-weight="700" fill="#38BDF8">VAYUSUTRA APIx</text>
+      <text x="14" y="33" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="9" fill="#94A3B8">CPI Jevons / Laspeyres Index</text>
+      <rect x="126" y="8" width="34" height="14" rx="3" fill="#1E293B"/>
+      <text x="143" y="18" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="7.5" fill="#00F0FF" text-anchor="middle">LIVE</text>
+    </g>
+
+    <!-- BOTTOM CHANNEL (System Engineering & Storage) -->
+    <g transform="translate(230, 238)">
+      <rect x="0" y="0" width="144" height="20" rx="4" fill="#180F24"/>
+      <text x="8" y="14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="9" font-weight="700" fill="#A855F7">&#9660; SYSTEMS &amp; STORAGE TIER</text>
+    </g>
+
+    <!-- Node 2B: ResiliX (Bottom Left) -->
+    <g transform="translate(285, 175)">
+      <rect x="0" y="0" width="160" height="42" rx="8" fill="#120D20" stroke="#8B5CF6" stroke-width="1.4"/>
+      <text x="14" y="20" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="11.5" font-weight="700" fill="#A855F7">RESILIX GUARD</text>
+      <text x="14" y="33" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="9" fill="#94A3B8">Token Bucket &amp; Chaos Gate</text>
+      <rect x="114" y="8" width="36" height="14" rx="3" fill="#1E1630"/>
+      <text x="132" y="18" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="7.5" fill="#A855F7" text-anchor="middle">SAFE</text>
+    </g>
+
+    <!-- Node 3B: Forge Engine (Bottom Right) -->
+    <g transform="translate(560, 175)">
+      <rect x="0" y="0" width="170" height="42" rx="8" fill="#120D20" stroke="#EC4899" stroke-width="1.4"/>
+      <text x="14" y="20" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="11.5" font-weight="700" fill="#EC4899">FORGE ENGINE</text>
+      <text x="14" y="33" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="9" fill="#94A3B8">WAL Journal &amp; Crash Recovery</text>
+      <rect x="122" y="8" width="38" height="14" rx="3" fill="#20101C"/>
+      <text x="141" y="18" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="7.5" fill="#EC4899" text-anchor="middle">0-DEP</text>
+    </g>
+
+    <!-- NODE 4: Intelligence Delivery (Right Central) -->
+    <g transform="translate(830, 115)">
+      <rect x="0" y="0" width="124" height="40" rx="8" fill="#0D1120" stroke="#6366F1" stroke-width="1.4"/>
+      <circle cx="16" cy="20" r="4" fill="#A855F7"/>
+      <text x="28" y="19" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="11" font-weight="700" fill="#F8FAFC">DECISION API</text>
+      <text x="28" y="31" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+            font-size="8.5" fill="#64748B">Zero-Loss Delivery</text>
+    </g>
 
     <!-- Border Glow -->
-    <rect x="0.5" y="0.5" width="999" height="229" rx="12" fill="none" stroke="#00FF66" stroke-opacity="0.22"/>
+    <rect x="1" y="1" width="998" height="268" rx="14" fill="none" stroke="#6366F1" stroke-opacity="0.25" stroke-width="1.2"/>
   </g>
 </svg>
