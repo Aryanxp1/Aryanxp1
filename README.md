@@ -74,9 +74,9 @@ class AryanVishwakarma:
 
 <br/>
 
-<!-- ══════════════════════ PACMAN EATING DOTS ANIMATION ══════════════════════ -->
+<!-- ══════════════════════ RETRO NEON LINE WAVE ══════════════════════ -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400" alt="Pacman animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Cyber retro line animation"/>
 </div>
 
 <br/>
@@ -86,10 +86,13 @@ class AryanVishwakarma:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>✈️ <a href="https://github.com/Aryanxp1/VayuSutra-APIx">VayuSutra-APIx</a></h4>
+      <br/>
+      <a href="https://github.com/Aryanxp1/VayuSutra-APIx">
+        <img src="https://img.shields.io/badge/PLATFORM_01-✈️_VayuSutra--APIx-0284C7?style=for-the-badge&labelColor=090D18" height="28"/>
+      </a>
       <p><b>Econometric Aviation Intelligence &amp; Airfare Price Index Platform</b></p>
       <p>
-        <a href="https://vayusutra-apix.onrender.com/"><img src="https://img.shields.io/badge/Live_Deployment-Render-00F0FF?style=flat-square&labelColor=090D18" height="20"/></a>
+        <a href="https://vayusutra-apix.onrender.com/"><img src="https://img.shields.io/badge/Live_Deployment-Render-0284C7?style=flat-square&labelColor=090D18" height="20"/></a>
         <img src="https://img.shields.io/badge/FastAPI-090D18?style=flat-square&labelColor=090D18&color=8B949E" height="20"/>
         <img src="https://img.shields.io/badge/CPI_Methodology-Jevons_%2B_Laspeyres-8B5CF6?style=flat-square&labelColor=090D18" height="20"/>
       </p>
@@ -100,11 +103,14 @@ class AryanVishwakarma:
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🔍 <a href="https://github.com/Aryanxp1/Solva">Solva</a></h4>
+      <br/>
+      <a href="https://github.com/Aryanxp1/Solva">
+        <img src="https://img.shields.io/badge/ENGINE_02-🔍_Solva-8B5CF6?style=for-the-badge&labelColor=090D18" height="28"/>
+      </a>
       <p><b>Local-First AI Pipeline for Data Quality &amp; Anomaly Remediation</b></p>
       <p>
         <img src="https://img.shields.io/badge/Python-090D18?style=flat-square&labelColor=090D18&color=8B949E" height="20"/>
-        <img src="https://img.shields.io/badge/Ollama-Local_AI-00F0FF?style=flat-square&labelColor=090D18" height="20"/>
+        <img src="https://img.shields.io/badge/Ollama-Local_AI-0284C7?style=flat-square&labelColor=090D18" height="20"/>
         <img src="https://img.shields.io/badge/Streamlit-090D18?style=flat-square&labelColor=090D18&color=8B949E" height="20"/>
         <img src="https://img.shields.io/badge/ETL_Quality-Automated-8B5CF6?style=flat-square&labelColor=090D18" height="20"/>
       </p>
@@ -117,11 +123,14 @@ class AryanVishwakarma:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://github.com/Aryanxp1/ResiliX">ResiliX</a></h4>
+      <br/>
+      <a href="https://github.com/Aryanxp1/ResiliX">
+        <img src="https://img.shields.io/badge/CORE_03-🛡️_ResiliX-0369A1?style=for-the-badge&labelColor=090D18" height="28"/>
+      </a>
       <p><b>Controlled Resilience-Testing &amp; Chaos Engineering Platform</b></p>
       <p>
         <img src="https://img.shields.io/badge/Python_3.11+-090D18?style=flat-square&labelColor=090D18&color=8B949E" height="20"/>
-        <img src="https://img.shields.io/badge/Chaos_Engineering-00F0FF?style=flat-square&labelColor=090D18" height="20"/>
+        <img src="https://img.shields.io/badge/Chaos_Engineering-0284C7?style=flat-square&labelColor=090D18" height="20"/>
         <img src="https://img.shields.io/badge/Safety_Gate-Token_Bucket-8B5CF6?style=flat-square&labelColor=090D18" height="20"/>
       </p>
       <ul>
@@ -130,11 +139,14 @@ class AryanVishwakarma:
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>💾 <a href="https://github.com/Aryanxp1/forge">Forge</a></h4>
+      <br/>
+      <a href="https://github.com/Aryanxp1/forge">
+        <img src="https://img.shields.io/badge/ENGINE_04-💾_Forge-7C3AED?style=for-the-badge&labelColor=090D18" height="28"/>
+      </a>
       <p><b>Zero-Dependency Local Data Engine &amp; Storage Core</b></p>
       <p>
         <img src="https://img.shields.io/badge/Python-090D18?style=flat-square&labelColor=090D18&color=8B949E" height="20"/>
-        <img src="https://img.shields.io/badge/Zero_Dependencies-00F0FF?style=flat-square&labelColor=090D18" height="20"/>
+        <img src="https://img.shields.io/badge/Zero_Dependencies-0284C7?style=flat-square&labelColor=090D18" height="20"/>
         <img src="https://img.shields.io/badge/Crash_Recovery-WAL-8B5CF6?style=flat-square&labelColor=090D18" height="20"/>
       </p>
       <ul>
@@ -217,8 +229,13 @@ class AryanVishwakarma:
 
 <br/><br/>
 
-<!-- ══════════════════════ RETRO NEON LINE WAVE ══════════════════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Cyber retro line animation"/>
+<!-- ══════════════════════ GITHUB ACTIVITY GRAPH ══════════════════════ -->
+<img src="https://activity-graph.vercel.app/graph?username=Aryanxp1&custom_title=contribution%20telemetry&hide_border=true&bg_color=090D18&color=94A3B8&line=00F0FF&point=F8FAFC&area=true&area_color=00F0FF18&title_color=00F0FF" width="98%" alt="Aryanxp1 Contribution Graph" />
+
+<br/><br/>
+
+<!-- ══════════════════════ PACMAN EATING DOTS ANIMATION ══════════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400" alt="Pacman animation"/>
 
 </div>
 
